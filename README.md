@@ -1,4 +1,4 @@
 # kubernetes_self_studying
-Kubernetes Self-Studying
+Kubernetes Self-Studying[^1]
 
-https://www.youtube.com/watch?v=gjQDyND-vN8&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIUX-q
+[^1]: [Sử dụng Kubernetes](https://www.youtube.com/playlist?list=PLwJr0JSP7i8D-QS50lYsXpAg-jYoqxMVy)
